@@ -1,40 +1,21 @@
-[10:46:44] [Server thread/INFO]: Starting minecraft server version 1.12.2
-[10:46:44] [Server thread/INFO]: Loading properties
-[10:46:44] [Server thread/INFO]: Default game type: SURVIVAL
-[10:46:44] [Server thread/INFO]: Generating keypair
-[10:46:45] [Server thread/INFO]: Starting Minecraft server on *:25565
-[10:46:45] [Server thread/INFO]: Using epoll channel type
-[10:46:45] [Server thread/INFO]: Preparing level "world"
-[10:46:45] [Server thread/INFO]: Loaded 488 advancements
-[10:46:45] [Server thread/INFO]: Preparing start region for level 0
-[10:46:46] [Server thread/INFO]: Preparing spawn area: 5%
-[10:46:47] [Server thread/INFO]: Preparing spawn area: 41%
-[10:46:48] [Server thread/INFO]: Preparing spawn area: 96%
-[10:46:49] [Server thread/INFO]: Done (3.670s)! For help, type "help" or "?"
-[10:48:01] [User Authenticator #1/INFO]: UUID of player jak0bii is 465b8086-3f7b-4217-ba83-d3b17a6c79e1
-[10:48:01] [Server thread/INFO]: jak0bii[/173.241.167.22:52354] logged in with entity id 251 at (-210.5648294660622, 64.5625, -267.1361308587359)
-[10:48:01] [Server thread/INFO]: jak0bii joined the game
-[10:58:38] [Server thread/INFO]: <jak0bii> ews
-[12:24:36] [Server thread/INFO]: jak0bii lost connection: Disconnected
-[12:24:36] [Server thread/INFO]: jak0bii left the game
-[18:16:43] [User Authenticator #2/INFO]: UUID of player jak0bii is 465b8086-3f7b-4217-ba83-d3b17a6c79e1
-[18:16:43] [Server thread/INFO]: jak0bii[/173.241.167.22:58790] logged in with entity id 101005 at (-505.4255763722805, 74.0, -166.57345995882224)
-[18:16:43] [Server thread/INFO]: jak0bii joined the game
-[18:17:20] [User Authenticator #3/INFO]: UUID of player slayballoon is b99316c6-204a-4c8a-800d-7d1fcbbf3b49
-[18:17:20] [Server thread/INFO]: slayballoon[/173.241.167.22:54225] logged in with entity id 101678 at (-221.90463528086315, 69.0, -278.00891304700855)
-[18:17:20] [Server thread/INFO]: slayballoon joined the game
-[18:17:26] [Server thread/WARN]: jak0bii moved wrongly!
-[18:19:27] [Server thread/INFO]: slayballoon lost connection: Disconnected
-[18:19:27] [Server thread/INFO]: slayballoon left the game
-[18:21:09] [Server thread/INFO]: jak0bii lost connection: Disconnected
-[18:21:09] [Server thread/INFO]: jak0bii left the game
-[18:24:45] [User Authenticator #4/INFO]: UUID of player slayballoon is b99316c6-204a-4c8a-800d-7d1fcbbf3b49
-[18:24:45] [Server thread/INFO]: slayballoon[/173.241.167.22:54587] logged in with entity id 108001 at (-221.90463528086315, 68.0, -278.00891304700855)
-[18:24:45] [Server thread/INFO]: slayballoon joined the game
-[18:25:51] [Server thread/INFO]: slayballoon lost connection: Internal Exception: io.netty.channel.unix.Errors$NativeIoException: syscall:read(..) failed: Connection reset by peer
-[18:25:51] [Server thread/INFO]: slayballoon left the game
-[18:26:12] [User Authenticator #5/INFO]: UUID of player slayballoon is b99316c6-204a-4c8a-800d-7d1fcbbf3b49
-[18:26:12] [Server thread/INFO]: slayballoon[/173.241.167.22:54693] logged in with entity id 110021 at (-221.90463528086315, 68.0, -278.00891304700855)
-[18:26:12] [Server thread/INFO]: slayballoon joined the game
-[18:26:24] [Server thread/INFO]: slayballoon lost connection: Internal Exception: io.netty.channel.unix.Errors$NativeIoException: syscall:read(..) failed: Connection reset by peer
-[18:26:24] [Server thread/INFO]: slayballoon left the game
+[00:09:00] [User Authenticator #7/INFO]: UUID of player slayballoon is b99316c6-204a-4c8a-800d-7d1fcbbf3b49
+[00:09:00] [Server thread/INFO]: slayballoon[/173.241.167.22:60757] logged in with entity id 154323 at (-221.90463528086315, 68.0, -278.00891304700855)
+[00:09:00] [Server thread/INFO]: slayballoon joined the game
+[00:15:04] [Server thread/INFO]: slayballoon lost connection: Disconnected
+[00:15:04] [Server thread/INFO]: slayballoon left the game
+[00:15:25] [User Authenticator #8/INFO]: UUID of player slayballoon is b99316c6-204a-4c8a-800d-7d1fcbbf3b49
+[00:15:26] [Server thread/INFO]: slayballoon[/173.241.167.22:60777] logged in with entity id 164710 at (-391.7371318294172, 64.0, -287.7643689096262)
+[00:15:26] [Server thread/INFO]: slayballoon joined the game
+[00:25:05] [Server thread/INFO]: slayballoon lost connection: Disconnected
+[00:25:05] [Server thread/INFO]: slayballoon left the game
+[00:25:13] [User Authenticator #9/INFO]: UUID of player slayballoon is b99316c6-204a-4c8a-800d-7d1fcbbf3b49
+[00:25:13] [Server thread/INFO]: slayballoon[/173.241.167.22:60795] logged in with entity id 179723 at (-678.7610668947098, 117.0, -517.6045816116984)
+[00:25:13] [Server thread/INFO]: slayballoon joined the game
+[00:38:43] [Server thread/INFO]: slayballoon has made the advancement [Take Aim]
+[00:48:37] [Server thread/INFO]: jak0bii fell from a high place
+[01:04:07] [Server thread/INFO]: slayballoon lost connection: Disconnected
+[01:04:07] [Server thread/INFO]: slayballoon left the game
+[01:05:51] [Server thread/INFO]: DoveDragon lost connection: Disconnected
+[01:05:51] [Server thread/INFO]: DoveDragon left the game
+[01:05:58] [Server thread/INFO]: jak0bii lost connection: Disconnected
+[01:05:58] [Server thread/INFO]: jak0bii left the game
