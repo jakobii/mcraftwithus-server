@@ -1,21 +1,44 @@
-[00:09:00] [User Authenticator #7/INFO]: UUID of player slayballoon is b99316c6-204a-4c8a-800d-7d1fcbbf3b49
-[00:09:00] [Server thread/INFO]: slayballoon[/173.241.167.22:60757] logged in with entity id 154323 at (-221.90463528086315, 68.0, -278.00891304700855)
-[00:09:00] [Server thread/INFO]: slayballoon joined the game
-[00:15:04] [Server thread/INFO]: slayballoon lost connection: Disconnected
-[00:15:04] [Server thread/INFO]: slayballoon left the game
-[00:15:25] [User Authenticator #8/INFO]: UUID of player slayballoon is b99316c6-204a-4c8a-800d-7d1fcbbf3b49
-[00:15:26] [Server thread/INFO]: slayballoon[/173.241.167.22:60777] logged in with entity id 164710 at (-391.7371318294172, 64.0, -287.7643689096262)
-[00:15:26] [Server thread/INFO]: slayballoon joined the game
-[00:25:05] [Server thread/INFO]: slayballoon lost connection: Disconnected
-[00:25:05] [Server thread/INFO]: slayballoon left the game
-[00:25:13] [User Authenticator #9/INFO]: UUID of player slayballoon is b99316c6-204a-4c8a-800d-7d1fcbbf3b49
-[00:25:13] [Server thread/INFO]: slayballoon[/173.241.167.22:60795] logged in with entity id 179723 at (-678.7610668947098, 117.0, -517.6045816116984)
-[00:25:13] [Server thread/INFO]: slayballoon joined the game
-[00:38:43] [Server thread/INFO]: slayballoon has made the advancement [Take Aim]
-[00:48:37] [Server thread/INFO]: jak0bii fell from a high place
-[01:04:07] [Server thread/INFO]: slayballoon lost connection: Disconnected
-[01:04:07] [Server thread/INFO]: slayballoon left the game
-[01:05:51] [Server thread/INFO]: DoveDragon lost connection: Disconnected
-[01:05:51] [Server thread/INFO]: DoveDragon left the game
-[01:05:58] [Server thread/INFO]: jak0bii lost connection: Disconnected
-[01:05:58] [Server thread/INFO]: jak0bii left the game
+[00:11:56] [Server thread/INFO]: jak0bii was slain by Zombie
+[00:13:14] [Server thread/INFO]: jak0bii was shot by Skeleton
+[00:22:27] [Server thread/INFO]: jak0bii has made the advancement [Isn't It Iron Pick]
+[01:40:51] [Server thread/INFO]: DoveDragon was blown up by Creeper
+[02:20:06] [Server thread/INFO]: jak0bii has made the advancement [Diamonds!]
+[02:27:49] [Server thread/INFO]: jak0bii has made the advancement [Hot Stuff]
+[02:48:07] [Server thread/INFO]: jak0bii was shot by Skeleton
+[02:49:10] [Server thread/INFO]: jak0bii was shot by Skeleton
+[02:55:26] [Server thread/INFO]: jak0bii was shot by Skeleton
+[03:01:03] [Server thread/INFO]: jak0bii lost connection: Timed out
+[03:01:03] [Server thread/INFO]: jak0bii left the game
+[03:01:03] [Server thread/WARN]: handleDisconnection() called twice
+[03:01:04] [Server thread/INFO]: DoveDragon lost connection: Timed out
+[03:01:04] [Server thread/INFO]: DoveDragon left the game
+[03:01:04] [Server thread/WARN]: handleDisconnection() called twice
+[03:01:34] [User Authenticator #14/INFO]: UUID of player DoveDragon is 455d2874-529a-46fd-a5a2-a1c34f3ed212
+[03:01:34] [Server thread/INFO]: DoveDragon[/47.35.23.55:1441] logged in with entity id 759079 at (-504.9104228143712, 69.0, -140.9995560500292)
+[03:01:34] [Server thread/INFO]: DoveDragon joined the game
+[03:01:50] [User Authenticator #15/INFO]: UUID of player jak0bii is 465b8086-3f7b-4217-ba83-d3b17a6c79e1
+[03:01:50] [Server thread/INFO]: jak0bii[/47.35.23.55:43312] logged in with entity id 759578 at (780.6085292947545, 27.0, 1154.0096043841525)
+[03:01:50] [Server thread/INFO]: jak0bii joined the game
+[03:03:31] [Server thread/INFO]: jak0bii was shot by Skeleton
+[03:04:15] [Server thread/INFO]: jak0bii was slain by Zombie
+[03:25:12] [Server thread/INFO]: DoveDragon has made the advancement [Hot Stuff]
+[04:01:25] [Server thread/INFO]: DoveDragon has made the advancement [We Need to Go Deeper]
+[04:01:25] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 6298ms behind, skipping 125 tick(s)
+[04:01:27] [Server thread/WARN]: DoveDragon moved too quickly! 475.0413918964755,-5.0,197.10852504687892
+[04:01:43] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 8084ms behind, skipping 161 tick(s)
+[04:05:18] [Server thread/WARN]: DoveDragon moved too quickly! -445.87871716937246,10.0,-71.38708266206535
+[04:05:37] [Server thread/INFO]: DoveDragon was slain by Zombie
+[04:08:58] [Server thread/WARN]: DoveDragon moved too quickly! 474.65557545142565,-5.0,197.608893733995
+[04:09:08] [Server thread/WARN]: DoveDragon moved too quickly! -446.1988557680831,10.0,-71.56737615822539
+[04:16:43] [Server thread/INFO]: jak0bii was blown up by Creeper
+[04:19:48] [Server thread/WARN]: jak0bii moved wrongly!
+[04:21:50] [Server thread/WARN]: Horse moved wrongly!
+[04:21:50] [Server thread/WARN]: Horse moved wrongly!
+[04:21:53] [Server thread/WARN]: Horse moved wrongly!
+[04:21:53] [Server thread/WARN]: Horse moved wrongly!
+[04:21:59] [Server thread/WARN]: Horse moved wrongly!
+[04:21:59] [Server thread/WARN]: Horse moved wrongly!
+[04:23:46] [Server thread/WARN]: Horse moved wrongly!
+[04:23:46] [Server thread/WARN]: Horse moved wrongly!
+[04:23:56] [Server thread/WARN]: Horse moved wrongly!
+[04:23:56] [Server thread/WARN]: Horse moved wrongly!
