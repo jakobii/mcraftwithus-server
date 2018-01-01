@@ -1,59 +1,8 @@
-[02:27:25] [User Authenticator #18/INFO]: UUID of player DoveDragon is 455d2874-529a-46fd-a5a2-a1c34f3ed212
-[02:27:25] [Server thread/INFO]: DoveDragon[/47.35.23.55:56101] logged in with entity id 1891943 at (-492.92605123116886, 73.0, -141.90564799922095)
-[02:27:25] [Server thread/INFO]: DoveDragon joined the game
-[02:27:30] [User Authenticator #19/INFO]: UUID of player jak0bii is 465b8086-3f7b-4217-ba83-d3b17a6c79e1
-[02:27:30] [Server thread/INFO]: jak0bii[/47.35.23.55:61733] logged in with entity id 1892282 at (-528.6140892311804, 71.0, -198.94930894997356)
-[02:27:30] [Server thread/INFO]: jak0bii joined the game
-[02:28:26] [Server thread/INFO]: <jak0bii> blah
-[02:28:37] [Server thread/INFO]: <DoveDragon> Hi!!!!
-[02:39:36] [Server thread/INFO]: DoveDragon was burnt to a crisp whilst fighting jak0bii
-[02:39:38] [Server thread/WARN]: Fetching addPacket for removed entity
-[02:42:37] [Server thread/WARN]: jak0bii moved too quickly! 737.7257295718002,-64.0,244.01139609643758
-[02:43:03] [Server thread/WARN]: jak0bii moved too quickly! -446.04989521990785,10.0,-71.2272925079848
-[02:48:38] [Server thread/WARN]: jak0bii moved too quickly! 738.2307457020808,-64.0,245.39999997615814
-[02:48:52] [Server thread/WARN]: jak0bii moved too quickly! -430.06911946950527,35.0,-50.0
-[03:04:20] [Server thread/WARN]: Warrior moved wrongly!
-[03:04:20] [Server thread/WARN]: Warrior moved wrongly!
-[03:04:20] [Server thread/WARN]: Warrior moved wrongly!
-[03:09:05] [Server thread/WARN]: Warrior moved wrongly!
-[03:09:05] [Server thread/WARN]: Warrior moved wrongly!
-[03:16:42] [Server thread/WARN]: Warrior moved wrongly!
-[03:21:15] [Server thread/WARN]: jak0bii moved wrongly!
-[03:23:31] [Server thread/WARN]: Warrior moved wrongly!
-[03:23:31] [Server thread/WARN]: Warrior moved wrongly!
-[03:29:21] [Server thread/WARN]: Dash moved wrongly!
-[03:29:21] [Server thread/WARN]: Dash moved wrongly!
-[03:31:02] [Server thread/WARN]: Dash moved wrongly!
-[03:31:02] [Server thread/WARN]: Dash moved wrongly!
-[03:32:13] [Server thread/WARN]: Dash moved wrongly!
-[03:32:13] [Server thread/WARN]: Dash moved wrongly!
-[03:33:30] [Server thread/INFO]: jak0bii was shot by Skeleton
-[03:34:22] [Server thread/INFO]: jak0bii lost connection: Internal Exception: io.netty.channel.unix.Errors$NativeIoException: syscall:read(..) failed: Connection reset by peer
-[03:34:22] [Server thread/INFO]: jak0bii left the game
-[03:50:07] [Server thread/WARN]: Warrior moved wrongly!
-[03:50:08] [Server thread/WARN]: Warrior moved wrongly!
-[04:18:57] [Server thread/WARN]: Warrior moved wrongly!
-[04:18:57] [Server thread/WARN]: Warrior moved wrongly!
-[04:22:18] [User Authenticator #20/INFO]: UUID of player jak0bii is 465b8086-3f7b-4217-ba83-d3b17a6c79e1
-[04:22:18] [Server thread/INFO]: jak0bii[/47.35.23.55:41211] logged in with entity id 2070248 at (-526.6219572145645, 69.0, -143.0366321300499)
-[04:22:18] [Server thread/INFO]: jak0bii joined the game
-[04:31:42] [Server thread/INFO]: jak0bii was shot by Stray
-[05:48:26] [Server thread/INFO]: DoveDragon has made the advancement [Ice Bucket Challenge]
-[07:41:53] [Server thread/INFO]: jak0bii lost connection: Disconnected
-[07:41:53] [Server thread/INFO]: jak0bii left the game
-[07:53:47] [User Authenticator #21/INFO]: UUID of player jak0bii is 465b8086-3f7b-4217-ba83-d3b17a6c79e1
-[07:53:47] [Server thread/INFO]: jak0bii[/47.35.23.55:24645] logged in with entity id 2434841 at (-566.8960687900878, 84.0, 1133.458308760697)
-[07:53:47] [Server thread/INFO]: jak0bii joined the game
-[08:12:23] [Server thread/WARN]: Warrior moved wrongly!
-[08:12:23] [Server thread/WARN]: Warrior moved wrongly!
-[08:12:23] [Server thread/WARN]: Warrior moved wrongly!
-[10:13:07] [Server thread/INFO]: jak0bii lost connection: Disconnected
-[10:13:07] [Server thread/INFO]: jak0bii left the game
-[10:35:01] [Server thread/WARN]: Warrior moved wrongly!
-[11:24:31] [Server thread/INFO]: DoveDragon lost connection: Disconnected
-[11:24:31] [Server thread/INFO]: DoveDragon left the game
-[22:15:27] [User Authenticator #22/INFO]: UUID of player jak0bii is 465b8086-3f7b-4217-ba83-d3b17a6c79e1
-[22:15:27] [Server thread/INFO]: jak0bii[/47.35.23.55:19414] logged in with entity id 2921451 at (-567.3638919285709, 84.0, 1133.2993505127688)
-[22:15:27] [Server thread/INFO]: jak0bii joined the game
-[22:26:45] [Server thread/INFO]: jak0bii lost connection: Disconnected
-[22:26:45] [Server thread/INFO]: jak0bii left the game
+[03:37:44] [User Authenticator #23/INFO]: UUID of player DoveDragon is 455d2874-529a-46fd-a5a2-a1c34f3ed212
+[03:37:44] [Server thread/INFO]: DoveDragon[/47.35.23.55:44826] logged in with entity id 2981370 at (-716.8712456629667, 73.0, 96.5520141593821)
+[03:37:44] [Server thread/INFO]: DoveDragon joined the game
+[03:39:19] [Server thread/INFO]: DoveDragon lost connection: Disconnected
+[03:39:19] [Server thread/INFO]: DoveDragon left the game
+[04:07:59] [User Authenticator #24/INFO]: UUID of player jak0bii is 465b8086-3f7b-4217-ba83-d3b17a6c79e1
+[04:07:59] [Server thread/INFO]: jak0bii[/47.35.23.55:50597] logged in with entity id 2982956 at (-574.3000000119209, 77.0, 1144.8655370284582)
+[04:07:59] [Server thread/INFO]: jak0bii joined the game
