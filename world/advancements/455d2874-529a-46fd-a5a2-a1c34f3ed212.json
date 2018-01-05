@@ -380,6 +380,7 @@
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
       "cooked_beef": "2017-12-25 09:10:25 +0000",
+      "baked_potato": "2018-01-04 04:13:57 +0000",
       "apple": "2017-12-25 08:17:31 +0000",
       "potato": "2017-12-30 10:17:16 +0000",
       "cooked_cod": "2017-12-25 09:19:25 +0000",
@@ -558,6 +559,7 @@
   },
   "minecraft:husbandry/bred_all_animals": {
     "criteria": {
+      "bred_chicken": "2018-01-04 03:19:54 +0000",
       "bred_sheep": "2017-12-26 23:06:42 +0000",
       "bred_cow": "2017-12-27 00:03:55 +0000"
     },
@@ -891,6 +893,12 @@
   "minecraft:recipes/redstone/redstone_block": {
     "criteria": {
       "has_at_least_9_redstone": "2017-12-29 02:38:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/trade": {
+    "criteria": {
+      "traded": "2018-01-04 05:28:02 +0000"
     },
     "done": true
   },
