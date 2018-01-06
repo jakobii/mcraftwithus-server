@@ -1,21 +1,3 @@
-[03:11:36] [User Authenticator #25/INFO]: UUID of player jak0bii is 465b8086-3f7b-4217-ba83-d3b17a6c79e1
-[03:11:36] [Server thread/INFO]: jak0bii[/47.35.23.55:27141] logged in with entity id 3443660 at (-584.1263245856258, 71.0, 1062.5600794474844)
-[03:11:36] [Server thread/INFO]: jak0bii joined the game
-[03:13:18] [User Authenticator #26/INFO]: UUID of player DoveDragon is 455d2874-529a-46fd-a5a2-a1c34f3ed212
-[03:13:18] [Server thread/INFO]: DoveDragon[/47.35.23.55:41489] logged in with entity id 3444917 at (-711.7513608721906, 71.9375, 100.3688412383919)
-[03:13:18] [Server thread/INFO]: DoveDragon joined the game
-[03:46:48] [Server thread/INFO]: jak0bii was slain by Zombie
-[03:52:03] [Server thread/INFO]: jak0bii was shot by Skeleton
-[04:54:17] [Server thread/INFO]: jak0bii lost connection: Timed out
-[04:54:17] [Server thread/INFO]: jak0bii left the game
-[04:54:17] [Server thread/WARN]: handleDisconnection() called twice
-[05:28:02] [Server thread/INFO]: DoveDragon has made the advancement [What a Deal!]
-[06:22:37] [Server thread/INFO]: DoveDragon lost connection: Disconnected
-[06:22:37] [Server thread/INFO]: DoveDragon left the game
-[06:27:53] [User Authenticator #27/INFO]: UUID of player jak0bii is 465b8086-3f7b-4217-ba83-d3b17a6c79e1
-[06:27:53] [Server thread/INFO]: jak0bii[/47.35.23.55:35194] logged in with entity id 3705750 at (158.13050990374566, 22.0, 1086.1766760263765)
-[06:27:53] [Server thread/INFO]: jak0bii joined the game
-[08:09:59] [Server thread/INFO]: jak0bii was slain by Spider
-[08:30:58] [Server thread/INFO]: jak0bii hit the ground too hard
-[09:02:49] [Server thread/INFO]: jak0bii lost connection: Disconnected
-[09:02:49] [Server thread/INFO]: jak0bii left the game
+[04:35:22] [User Authenticator #28/INFO]: UUID of player DoveDragon is 455d2874-529a-46fd-a5a2-a1c34f3ed212
+[04:35:22] [Server thread/INFO]: DoveDragon[/47.35.23.55:27588] logged in with entity id 3849768 at (-717.3333806940773, 73.0, 95.80632608681519)
+[04:35:22] [Server thread/INFO]: DoveDragon joined the game
