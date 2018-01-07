@@ -1,3 +1,10 @@
 [04:35:22] [User Authenticator #28/INFO]: UUID of player DoveDragon is 455d2874-529a-46fd-a5a2-a1c34f3ed212
 [04:35:22] [Server thread/INFO]: DoveDragon[/47.35.23.55:27588] logged in with entity id 3849768 at (-717.3333806940773, 73.0, 95.80632608681519)
 [04:35:22] [Server thread/INFO]: DoveDragon joined the game
+[06:25:30] [Server thread/INFO]: DoveDragon lost connection: Disconnected
+[06:25:30] [Server thread/INFO]: DoveDragon left the game
+[17:44:57] [User Authenticator #29/INFO]: UUID of player slayballoon is b99316c6-204a-4c8a-800d-7d1fcbbf3b49
+[17:44:57] [Server thread/INFO]: slayballoon[/173.241.167.22:52072] logged in with entity id 3951546 at (-674.4875000119209, 77.0, -516.3052077554169)
+[17:44:57] [Server thread/INFO]: slayballoon joined the game
+[18:00:07] [Server thread/INFO]: slayballoon lost connection: Disconnected
+[18:00:07] [Server thread/INFO]: slayballoon left the game
