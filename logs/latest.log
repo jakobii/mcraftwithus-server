@@ -1,20 +1,17 @@
-[08:42:01] [Server console handler/ERROR]: Exception handling console input
-java.io.IOException: Input/output error
-	at java.io.FileInputStream.readBytes(Native Method) ~[?:1.8.0_151]
-	at java.io.FileInputStream.read(FileInputStream.java:255) ~[?:1.8.0_151]
-	at java.io.BufferedInputStream.read1(BufferedInputStream.java:284) ~[?:1.8.0_151]
-	at java.io.BufferedInputStream.read(BufferedInputStream.java:345) ~[?:1.8.0_151]
-	at sun.nio.cs.StreamDecoder.readBytes(StreamDecoder.java:284) ~[?:1.8.0_151]
-	at sun.nio.cs.StreamDecoder.implRead(StreamDecoder.java:326) ~[?:1.8.0_151]
-	at sun.nio.cs.StreamDecoder.read(StreamDecoder.java:178) ~[?:1.8.0_151]
-	at java.io.InputStreamReader.read(InputStreamReader.java:184) ~[?:1.8.0_151]
-	at java.io.BufferedReader.fill(BufferedReader.java:161) ~[?:1.8.0_151]
-	at java.io.BufferedReader.readLine(BufferedReader.java:324) ~[?:1.8.0_151]
-	at java.io.BufferedReader.readLine(BufferedReader.java:389) ~[?:1.8.0_151]
-	at nz$2.run(SourceFile:100) [minecraft_server.1.12.2.jar:?]
-[08:42:01] [Server Shutdown Thread/INFO]: Stopping server
-[08:42:01] [Server Shutdown Thread/INFO]: Saving players
-[08:42:01] [Server Shutdown Thread/INFO]: Saving worlds
-[08:42:01] [Server Shutdown Thread/INFO]: Saving chunks for level 'world'/overworld
-[08:42:01] [Server Shutdown Thread/INFO]: Saving chunks for level 'world'/the_nether
-[08:42:01] [Server Shutdown Thread/INFO]: Saving chunks for level 'world'/the_end
+[07:50:59] [Server thread/INFO]: Loading properties
+[07:50:59] [Server thread/INFO]: Default game type: SURVIVAL
+[07:50:59] [Server thread/INFO]: Generating keypair
+[07:51:00] [Server thread/INFO]: Starting Minecraft server on *:25565
+[07:51:00] [Server thread/INFO]: Using epoll channel type
+[07:51:00] [Server thread/INFO]: Preparing level "world"
+[07:51:00] [Server thread/INFO]: Loaded 488 advancements
+[07:51:01] [Server thread/INFO]: Preparing start region for level 0
+[07:51:02] [Server thread/INFO]: Preparing spawn area: 1%
+[07:51:03] [Server thread/INFO]: Preparing spawn area: 24%
+[07:51:04] [Server thread/INFO]: Preparing spawn area: 50%
+[07:51:04] [Server thread/INFO]: Done (4.472s)! For help, type "help" or "?"
+[07:55:35] [User Authenticator #1/INFO]: UUID of player jak0bii is 465b8086-3f7b-4217-ba83-d3b17a6c79e1
+[07:55:35] [Server thread/INFO]: jak0bii[/47.35.23.55:50109] logged in with entity id 165 at (659.799159226124, 69.0, 1443.5373681068427)
+[07:55:35] [Server thread/INFO]: jak0bii joined the game
+[07:57:47] [Server thread/INFO]: jak0bii lost connection: Disconnected
+[07:57:47] [Server thread/INFO]: jak0bii left the game
