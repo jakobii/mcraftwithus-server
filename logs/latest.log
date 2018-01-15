@@ -1,17 +1,5 @@
-[07:50:59] [Server thread/INFO]: Loading properties
-[07:50:59] [Server thread/INFO]: Default game type: SURVIVAL
-[07:50:59] [Server thread/INFO]: Generating keypair
-[07:51:00] [Server thread/INFO]: Starting Minecraft server on *:25565
-[07:51:00] [Server thread/INFO]: Using epoll channel type
-[07:51:00] [Server thread/INFO]: Preparing level "world"
-[07:51:00] [Server thread/INFO]: Loaded 488 advancements
-[07:51:01] [Server thread/INFO]: Preparing start region for level 0
-[07:51:02] [Server thread/INFO]: Preparing spawn area: 1%
-[07:51:03] [Server thread/INFO]: Preparing spawn area: 24%
-[07:51:04] [Server thread/INFO]: Preparing spawn area: 50%
-[07:51:04] [Server thread/INFO]: Done (4.472s)! For help, type "help" or "?"
-[07:55:35] [User Authenticator #1/INFO]: UUID of player jak0bii is 465b8086-3f7b-4217-ba83-d3b17a6c79e1
-[07:55:35] [Server thread/INFO]: jak0bii[/47.35.23.55:50109] logged in with entity id 165 at (659.799159226124, 69.0, 1443.5373681068427)
-[07:55:35] [Server thread/INFO]: jak0bii joined the game
-[07:57:47] [Server thread/INFO]: jak0bii lost connection: Disconnected
-[07:57:47] [Server thread/INFO]: jak0bii left the game
+[04:29:06] [User Authenticator #2/INFO]: UUID of player DoveDragon is 455d2874-529a-46fd-a5a2-a1c34f3ed212
+[04:29:06] [Server thread/INFO]: DoveDragon[/24.176.232.46:34428] logged in with entity id 2453 at (-686.8121107202306, 70.9375, 100.61276751395492)
+[04:29:06] [Server thread/INFO]: DoveDragon joined the game
+[04:52:53] [Server thread/INFO]: DoveDragon lost connection: Disconnected
+[04:52:53] [Server thread/INFO]: DoveDragon left the game
