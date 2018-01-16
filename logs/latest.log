@@ -1,5 +1,41 @@
-[04:29:06] [User Authenticator #2/INFO]: UUID of player DoveDragon is 455d2874-529a-46fd-a5a2-a1c34f3ed212
-[04:29:06] [Server thread/INFO]: DoveDragon[/24.176.232.46:34428] logged in with entity id 2453 at (-686.8121107202306, 70.9375, 100.61276751395492)
-[04:29:06] [Server thread/INFO]: DoveDragon joined the game
-[04:52:53] [Server thread/INFO]: DoveDragon lost connection: Disconnected
-[04:52:53] [Server thread/INFO]: DoveDragon left the game
+[00:36:00] [Server thread/INFO]: Loading properties
+[00:36:00] [Server thread/INFO]: Default game type: SURVIVAL
+[00:36:00] [Server thread/INFO]: Generating keypair
+[00:36:00] [Server thread/INFO]: Starting Minecraft server on *:25565
+[00:36:00] [Server thread/INFO]: Using epoll channel type
+[00:36:00] [Server thread/INFO]: Preparing level "world"
+[00:36:01] [Server thread/INFO]: Loaded 488 advancements
+[00:36:01] [Server thread/INFO]: Preparing start region for level 0
+[00:36:02] [Server thread/INFO]: Preparing spawn area: 0%
+[00:36:03] [Server thread/INFO]: Preparing spawn area: 29%
+[00:36:04] [Server thread/INFO]: Preparing spawn area: 93%
+[00:36:04] [Server thread/INFO]: Done (3.742s)! For help, type "help" or "?"
+[00:36:29] [User Authenticator #1/INFO]: UUID of player jak0bii is 465b8086-3f7b-4217-ba83-d3b17a6c79e1
+[00:36:30] [Server thread/INFO]: jak0bii[/47.35.23.55:55837] logged in with entity id 165 at (657.5, 69.0, 1446.5)
+[00:36:30] [Server thread/INFO]: jak0bii joined the game
+[00:36:31] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2165ms behind, skipping 43 tick(s)
+[00:36:55] [Server thread/INFO]: jak0bii lost connection: Disconnected
+[00:36:55] [Server thread/INFO]: jak0bii left the game
+[00:39:24] [User Authenticator #2/INFO]: UUID of player jak0bii is 465b8086-3f7b-4217-ba83-d3b17a6c79e1
+[00:39:24] [Server thread/INFO]: jak0bii[/47.35.23.55:51548] logged in with entity id 548 at (659.2455497463991, 69.0, 1442.6070840488198)
+[00:39:24] [Server thread/INFO]: jak0bii joined the game
+[00:39:47] [Server thread/INFO]: jak0bii lost connection: Disconnected
+[00:39:47] [Server thread/INFO]: jak0bii left the game
+[00:39:52] [User Authenticator #3/INFO]: UUID of player jak0bii is 465b8086-3f7b-4217-ba83-d3b17a6c79e1
+[00:39:52] [Server thread/INFO]: jak0bii[/47.35.23.55:14147] logged in with entity id 921 at (660.3905296953429, 69.0, 1444.544004484737)
+[00:39:52] [Server thread/INFO]: jak0bii joined the game
+[00:41:04] [Server thread/INFO]: jak0bii lost connection: Disconnected
+[00:41:04] [Server thread/INFO]: jak0bii left the game
+[00:41:08] [User Authenticator #4/INFO]: UUID of player jak0bii is 465b8086-3f7b-4217-ba83-d3b17a6c79e1
+[00:41:08] [Server thread/INFO]: jak0bii[/47.35.23.55:16726] logged in with entity id 1906 at (660.9906172678377, 69.0, 1457.486485409883)
+[00:41:08] [Server thread/INFO]: jak0bii joined the game
+[00:41:15] [Server thread/INFO]: jak0bii lost connection: Disconnected
+[00:41:15] [Server thread/INFO]: jak0bii left the game
+[00:55:30] [User Authenticator #5/INFO]: UUID of player jak0bii is 465b8086-3f7b-4217-ba83-d3b17a6c79e1
+[00:55:30] [Server thread/INFO]: jak0bii[/47.35.23.55:41916] logged in with entity id 2200 at (660.9906172678377, 69.0, 1457.486485409883)
+[00:55:30] [Server thread/INFO]: jak0bii joined the game
+[01:29:47] [Server thread/INFO]: jak0bii lost connection: Disconnected
+[01:29:47] [Server thread/INFO]: jak0bii left the game
+[04:01:46] [User Authenticator #6/INFO]: UUID of player jak0bii is 465b8086-3f7b-4217-ba83-d3b17a6c79e1
+[04:01:46] [Server thread/INFO]: jak0bii[/47.35.23.55:19690] logged in with entity id 36394 at (657.5, 69.0, 1446.5)
+[04:01:46] [Server thread/INFO]: jak0bii joined the game
