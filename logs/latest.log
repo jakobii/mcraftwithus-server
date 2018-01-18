@@ -1,75 +1,10 @@
-[00:36:00] [Server thread/INFO]: Loading properties
-[00:36:00] [Server thread/INFO]: Default game type: SURVIVAL
-[00:36:00] [Server thread/INFO]: Generating keypair
-[00:36:00] [Server thread/INFO]: Starting Minecraft server on *:25565
-[00:36:00] [Server thread/INFO]: Using epoll channel type
-[00:36:00] [Server thread/INFO]: Preparing level "world"
-[00:36:01] [Server thread/INFO]: Loaded 488 advancements
-[00:36:01] [Server thread/INFO]: Preparing start region for level 0
-[00:36:02] [Server thread/INFO]: Preparing spawn area: 0%
-[00:36:03] [Server thread/INFO]: Preparing spawn area: 29%
-[00:36:04] [Server thread/INFO]: Preparing spawn area: 93%
-[00:36:04] [Server thread/INFO]: Done (3.742s)! For help, type "help" or "?"
-[00:36:29] [User Authenticator #1/INFO]: UUID of player jak0bii is 465b8086-3f7b-4217-ba83-d3b17a6c79e1
-[00:36:30] [Server thread/INFO]: jak0bii[/47.35.23.55:55837] logged in with entity id 165 at (657.5, 69.0, 1446.5)
-[00:36:30] [Server thread/INFO]: jak0bii joined the game
-[00:36:31] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2165ms behind, skipping 43 tick(s)
-[00:36:55] [Server thread/INFO]: jak0bii lost connection: Disconnected
-[00:36:55] [Server thread/INFO]: jak0bii left the game
-[00:39:24] [User Authenticator #2/INFO]: UUID of player jak0bii is 465b8086-3f7b-4217-ba83-d3b17a6c79e1
-[00:39:24] [Server thread/INFO]: jak0bii[/47.35.23.55:51548] logged in with entity id 548 at (659.2455497463991, 69.0, 1442.6070840488198)
-[00:39:24] [Server thread/INFO]: jak0bii joined the game
-[00:39:47] [Server thread/INFO]: jak0bii lost connection: Disconnected
-[00:39:47] [Server thread/INFO]: jak0bii left the game
-[00:39:52] [User Authenticator #3/INFO]: UUID of player jak0bii is 465b8086-3f7b-4217-ba83-d3b17a6c79e1
-[00:39:52] [Server thread/INFO]: jak0bii[/47.35.23.55:14147] logged in with entity id 921 at (660.3905296953429, 69.0, 1444.544004484737)
-[00:39:52] [Server thread/INFO]: jak0bii joined the game
-[00:41:04] [Server thread/INFO]: jak0bii lost connection: Disconnected
-[00:41:04] [Server thread/INFO]: jak0bii left the game
-[00:41:08] [User Authenticator #4/INFO]: UUID of player jak0bii is 465b8086-3f7b-4217-ba83-d3b17a6c79e1
-[00:41:08] [Server thread/INFO]: jak0bii[/47.35.23.55:16726] logged in with entity id 1906 at (660.9906172678377, 69.0, 1457.486485409883)
-[00:41:08] [Server thread/INFO]: jak0bii joined the game
-[00:41:15] [Server thread/INFO]: jak0bii lost connection: Disconnected
-[00:41:15] [Server thread/INFO]: jak0bii left the game
-[00:55:30] [User Authenticator #5/INFO]: UUID of player jak0bii is 465b8086-3f7b-4217-ba83-d3b17a6c79e1
-[00:55:30] [Server thread/INFO]: jak0bii[/47.35.23.55:41916] logged in with entity id 2200 at (660.9906172678377, 69.0, 1457.486485409883)
-[00:55:30] [Server thread/INFO]: jak0bii joined the game
-[01:29:47] [Server thread/INFO]: jak0bii lost connection: Disconnected
-[01:29:47] [Server thread/INFO]: jak0bii left the game
-[04:01:46] [User Authenticator #6/INFO]: UUID of player jak0bii is 465b8086-3f7b-4217-ba83-d3b17a6c79e1
-[04:01:46] [Server thread/INFO]: jak0bii[/47.35.23.55:19690] logged in with entity id 36394 at (657.5, 69.0, 1446.5)
-[04:01:46] [Server thread/INFO]: jak0bii joined the game
-[05:13:24] [User Authenticator #7/INFO]: UUID of player DoveDragon is 455d2874-529a-46fd-a5a2-a1c34f3ed212
-[05:13:24] [Server thread/INFO]: DoveDragon[/47.35.23.55:57407] logged in with entity id 106899 at (-661.5, 92.0, 103.5)
-[05:13:24] [Server thread/INFO]: DoveDragon joined the game
-[05:41:37] [Server thread/INFO]: DoveDragon lost connection: Disconnected
-[05:41:37] [Server thread/INFO]: DoveDragon left the game
-[06:21:05] [User Authenticator #8/INFO]: UUID of player DoveDragon is 455d2874-529a-46fd-a5a2-a1c34f3ed212
-[06:21:05] [Server thread/INFO]: DoveDragon[/47.35.23.55:63814] logged in with entity id 197028 at (-694.1466119171565, 71.0, 102.54397275678423)
-[06:21:05] [Server thread/INFO]: DoveDragon joined the game
-[06:53:02] [Server thread/INFO]: jak0bii lost connection: Timed out
-[06:53:02] [Server thread/INFO]: jak0bii left the game
-[06:53:02] [Server thread/WARN]: handleDisconnection() called twice
-[06:53:10] [Server thread/INFO]: DoveDragon lost connection: Timed out
-[06:53:10] [Server thread/INFO]: DoveDragon left the game
-[06:53:10] [Server thread/WARN]: handleDisconnection() called twice
-[16:13:07] [Server Shutdown Thread/INFO]: Stopping server
-[16:13:07] [Server console handler/ERROR]: Exception handling console input
-java.io.IOException: Input/output error
-	at java.io.FileInputStream.readBytes(Native Method) ~[?:1.8.0_151]
-	at java.io.FileInputStream.read(FileInputStream.java:255) ~[?:1.8.0_151]
-	at java.io.BufferedInputStream.read1(BufferedInputStream.java:284) ~[?:1.8.0_151]
-	at java.io.BufferedInputStream.read(BufferedInputStream.java:345) ~[?:1.8.0_151]
-	at sun.nio.cs.StreamDecoder.readBytes(StreamDecoder.java:284) ~[?:1.8.0_151]
-	at sun.nio.cs.StreamDecoder.implRead(StreamDecoder.java:326) ~[?:1.8.0_151]
-	at sun.nio.cs.StreamDecoder.read(StreamDecoder.java:178) ~[?:1.8.0_151]
-	at java.io.InputStreamReader.read(InputStreamReader.java:184) ~[?:1.8.0_151]
-	at java.io.BufferedReader.fill(BufferedReader.java:161) ~[?:1.8.0_151]
-	at java.io.BufferedReader.readLine(BufferedReader.java:324) ~[?:1.8.0_151]
-	at java.io.BufferedReader.readLine(BufferedReader.java:389) ~[?:1.8.0_151]
-	at nz$2.run(SourceFile:100) [minecraft_server.1.12.2.jar:?]
-[16:13:07] [Server Shutdown Thread/INFO]: Saving players
-[16:13:07] [Server Shutdown Thread/INFO]: Saving worlds
-[16:13:07] [Server Shutdown Thread/INFO]: Saving chunks for level 'world'/overworld
-[16:13:07] [Server Shutdown Thread/INFO]: Saving chunks for level 'world'/the_nether
-[16:13:07] [Server Shutdown Thread/INFO]: Saving chunks for level 'world'/the_end
+[02:15:52] [User Authenticator #4/INFO]: UUID of player DoveDragon is 455d2874-529a-46fd-a5a2-a1c34f3ed212
+[02:15:52] [Server thread/INFO]: DoveDragon[/47.35.23.55:35296] logged in with entity id 43563 at (-730.3574345267551, 71.23152379758702, 110.71270571582811)
+[02:15:52] [Server thread/INFO]: DoveDragon joined the game
+[03:11:08] [Server thread/INFO]: DoveDragon lost connection: Disconnected
+[03:11:08] [Server thread/INFO]: DoveDragon left the game
+[03:36:34] [User Authenticator #5/INFO]: UUID of player DoveDragon is 455d2874-529a-46fd-a5a2-a1c34f3ed212
+[03:36:34] [Server thread/INFO]: DoveDragon[/47.35.23.55:10486] logged in with entity id 106798 at (-684.2657558311809, 71.0, 109.0338360365929)
+[03:36:34] [Server thread/INFO]: DoveDragon joined the game
+[03:57:29] [Server thread/INFO]: DoveDragon lost connection: Disconnected
+[03:57:29] [Server thread/INFO]: DoveDragon left the game
