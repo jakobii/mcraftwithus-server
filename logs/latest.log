@@ -1,20 +1,19 @@
-[02:15:52] [User Authenticator #4/INFO]: UUID of player DoveDragon is 455d2874-529a-46fd-a5a2-a1c34f3ed212
-[02:15:52] [Server thread/INFO]: DoveDragon[/47.35.23.55:35296] logged in with entity id 43563 at (-730.3574345267551, 71.23152379758702, 110.71270571582811)
-[02:15:52] [Server thread/INFO]: DoveDragon joined the game
-[03:11:08] [Server thread/INFO]: DoveDragon lost connection: Disconnected
-[03:11:08] [Server thread/INFO]: DoveDragon left the game
-[03:36:34] [User Authenticator #5/INFO]: UUID of player DoveDragon is 455d2874-529a-46fd-a5a2-a1c34f3ed212
-[03:36:34] [Server thread/INFO]: DoveDragon[/47.35.23.55:10486] logged in with entity id 106798 at (-684.2657558311809, 71.0, 109.0338360365929)
-[03:36:34] [Server thread/INFO]: DoveDragon joined the game
-[03:57:29] [Server thread/INFO]: DoveDragon lost connection: Disconnected
-[03:57:29] [Server thread/INFO]: DoveDragon left the game
-[16:53:12] [User Authenticator #6/INFO]: UUID of player DoveDragon is 455d2874-529a-46fd-a5a2-a1c34f3ed212
-[16:53:13] [Server thread/INFO]: DoveDragon[/47.35.23.55:34969] logged in with entity id 127990 at (-683.8222115428969, 71.0, 119.2663242469242)
-[16:53:13] [Server thread/INFO]: DoveDragon joined the game
-[16:53:50] [Server thread/INFO]: DoveDragon lost connection: Disconnected
-[16:53:50] [Server thread/INFO]: DoveDragon left the game
-[19:01:37] [User Authenticator #7/INFO]: UUID of player DoveDragon is 455d2874-529a-46fd-a5a2-a1c34f3ed212
-[19:01:37] [Server thread/INFO]: DoveDragon[/47.35.23.55:64482] logged in with entity id 129063 at (-719.5, 78.0, 92.5)
-[19:01:37] [Server thread/INFO]: DoveDragon joined the game
-[19:03:24] [Server thread/INFO]: DoveDragon lost connection: Disconnected
-[19:03:24] [Server thread/INFO]: DoveDragon left the game
+[04:49:44] [Server thread/INFO]: Loading properties
+[04:49:44] [Server thread/INFO]: Default game type: SURVIVAL
+[04:49:44] [Server thread/INFO]: Generating keypair
+[04:49:44] [Server thread/INFO]: Starting Minecraft server on *:25565
+[04:49:44] [Server thread/INFO]: Using epoll channel type
+[04:49:44] [Server thread/INFO]: Preparing level "world"
+[04:49:45] [Server thread/INFO]: Loaded 488 advancements
+[04:49:45] [Server thread/INFO]: Preparing start region for level 0
+[04:49:47] [Server thread/INFO]: Preparing spawn area: 0%
+[04:49:48] [Server thread/INFO]: Preparing spawn area: 20%
+[04:49:49] [Server thread/INFO]: Preparing spawn area: 56%
+[04:49:50] [Server thread/INFO]: Preparing spawn area: 95%
+[04:49:50] [Server thread/INFO]: Done (5.325s)! For help, type "help" or "?"
+[04:59:01] [User Authenticator #1/INFO]: UUID of player DoveDragon is 455d2874-529a-46fd-a5a2-a1c34f3ed212
+[04:59:01] [Server thread/INFO]: DoveDragon[/24.176.232.46:45130] logged in with entity id 162 at (-687.5045131514574, 71.0, 130.1563378878547)
+[04:59:01] [Server thread/INFO]: DoveDragon joined the game
+[04:59:03] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2530ms behind, skipping 50 tick(s)
+[05:00:00] [Server thread/INFO]: DoveDragon lost connection: Disconnected
+[05:00:00] [Server thread/INFO]: DoveDragon left the game
