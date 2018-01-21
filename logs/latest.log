@@ -1,19 +1,24 @@
-[04:49:44] [Server thread/INFO]: Loading properties
-[04:49:44] [Server thread/INFO]: Default game type: SURVIVAL
-[04:49:44] [Server thread/INFO]: Generating keypair
-[04:49:44] [Server thread/INFO]: Starting Minecraft server on *:25565
-[04:49:44] [Server thread/INFO]: Using epoll channel type
-[04:49:44] [Server thread/INFO]: Preparing level "world"
-[04:49:45] [Server thread/INFO]: Loaded 488 advancements
-[04:49:45] [Server thread/INFO]: Preparing start region for level 0
-[04:49:47] [Server thread/INFO]: Preparing spawn area: 0%
-[04:49:48] [Server thread/INFO]: Preparing spawn area: 20%
-[04:49:49] [Server thread/INFO]: Preparing spawn area: 56%
-[04:49:50] [Server thread/INFO]: Preparing spawn area: 95%
-[04:49:50] [Server thread/INFO]: Done (5.325s)! For help, type "help" or "?"
-[04:59:01] [User Authenticator #1/INFO]: UUID of player DoveDragon is 455d2874-529a-46fd-a5a2-a1c34f3ed212
-[04:59:01] [Server thread/INFO]: DoveDragon[/24.176.232.46:45130] logged in with entity id 162 at (-687.5045131514574, 71.0, 130.1563378878547)
-[04:59:01] [Server thread/INFO]: DoveDragon joined the game
-[04:59:03] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2530ms behind, skipping 50 tick(s)
-[05:00:00] [Server thread/INFO]: DoveDragon lost connection: Disconnected
-[05:00:00] [Server thread/INFO]: DoveDragon left the game
+[07:20:13] [Server thread/INFO]: Starting minecraft server version 1.12.2
+[07:20:13] [Server thread/INFO]: Loading properties
+[07:20:13] [Server thread/INFO]: Default game type: SURVIVAL
+[07:20:13] [Server thread/INFO]: Generating keypair
+[07:20:14] [Server thread/INFO]: Starting Minecraft server on *:25565
+[07:20:14] [Server thread/INFO]: Using epoll channel type
+[07:20:14] [Server thread/INFO]: Preparing level "world"
+[07:20:15] [Server thread/INFO]: Loaded 488 advancements
+[07:20:15] [Server thread/INFO]: Preparing start region for level 0
+[07:20:16] [Server thread/INFO]: Preparing spawn area: 0%
+[07:20:17] [Server thread/INFO]: Preparing spawn area: 22%
+[07:20:18] [Server thread/INFO]: Preparing spawn area: 58%
+[07:20:19] [Server thread/INFO]: Done (4.463s)! For help, type "help" or "?"
+[07:21:03] [Server thread/INFO]: Player 'jak0bii' cannot be found
+[07:22:16] [Server thread/INFO]: Opped DoveDragon
+[07:22:31] [Server thread/INFO]: Opped jak0bii
+[07:22:42] [Server thread/INFO]: Player 'jak0bii' cannot be found
+[07:34:14] [Server thread/INFO]: Player 'jak0bii' cannot be found
+[07:35:48] [User Authenticator #1/INFO]: UUID of player jak0bii is 465b8086-3f7b-4217-ba83-d3b17a6c79e1
+[07:35:48] [Server thread/INFO]: jak0bii[/47.35.23.55:45670] logged in with entity id 168 at (659.5767305883402, 69.0, 1442.774100538153)
+[07:35:48] [Server thread/INFO]: jak0bii joined the game
+[07:35:50] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2460ms behind, skipping 49 tick(s)
+[07:36:08] [Server thread/INFO]: [jak0bii: Given [Arrow] * 64 to jak0bii]
+[07:36:36] [Server thread/INFO]: [jak0bii: Opped DoveDragon]
